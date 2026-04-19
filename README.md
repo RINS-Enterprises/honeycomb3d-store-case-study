@@ -1,5 +1,7 @@
 # Honeycomb 3D Store 🚀
 
+> Built and optimized a real-world e-commerce system focused on conversions, trust, and user experience.
+
 A conversion-focused e-commerce store built for anime collectible lovers in Sri Lanka.
 
 🔗 Live Site: https://honeycomb3d.store
@@ -10,7 +12,7 @@ A conversion-focused e-commerce store built for anime collectible lovers in Sri 
 
 Independently built and optimized a full e-commerce system, focusing on conversion optimization, payment integration, and trust-building mechanisms.
 
-Key responsibilities:
+**Key responsibilities:**
 
 * Store setup and configuration (WooCommerce)
 * UI/UX improvements for better product focus
@@ -39,6 +41,15 @@ The store is designed to:
 * Sell 3D printed anime collectibles
 * Optimize product pages for conversions
 * Use psychological triggers to influence buying decisions
+
+---
+
+## 🔄 System Flow
+
+User browses products → selects item → adds to cart
+→ proceeds to checkout → completes payment (Stripe or COD)
+→ receives order confirmation email (SMTP)
+→ Trustpilot review request is triggered → customer feedback collected
 
 ---
 
@@ -115,4 +126,4 @@ Focused on **conversion psychology**, not just design:
 
 ## 🧠 Summary
 
-This project demonstrates the ability to build and optimize a real-world e-commerce system with a focus on conversions, user experience, and trust.
+This project demonstrates the ability to build and optimize a real-world e-commerce system with a strong focus on conversions, user experience, and trust.
