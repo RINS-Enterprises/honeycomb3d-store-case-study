@@ -1,5 +1,7 @@
 # Honeycomb 3D Store 🚀
 
+![Preview](homepage.png)
+
 > Built and optimized a real-world e-commerce system focused on conversions, trust, and user experience.
 
 A conversion-focused e-commerce store built for anime collectible lovers in Sri Lanka.
