@@ -1,29 +1,29 @@
 # Honeycomb 3D Store 🚀
 
-An e-commerce store focused on anime collectibles, built using WooCommerce and optimized for real-world conversions.
+A conversion-focused e-commerce store built for anime collectible lovers in Sri Lanka.
+
+🔗 Live Site: https://honeycomb3d.store
 
 ---
 
-## 🔥 Features
+## 🧠 Project Overview
 
-- Stripe payment integration
-- Cash on Delivery support
-- Trustpilot review automation system
-- Scarcity & urgency UI (low stock, sold count)
-- Mobile-optimized design
+This project is a real-world WooCommerce store designed to:
+
+- Sell 3D printed anime collectibles
+- Optimize product pages for conversions
+- Build trust using reviews and real-time signals
 
 ---
 
-## 🧠 What I Focused On
+## ⚔️ Key Features
 
-This project is not just a website — it's a conversion system.
-
-Key focus areas:
-
-- Product page optimization
-- Psychological triggers (FOMO, social proof)
-- Clean UI/UX (dark theme, minimal distractions)
-- Trust building (reviews, WhatsApp support)
+- 🔥 Stripe payment integration
+- 📦 Cash on Delivery (COD)
+- ⚡ Low stock + “X sold” urgency system
+- 💬 WhatsApp direct contact integration
+- ⭐ Trustpilot review automation
+- 🌙 Dark UI with clean product focus
 
 ---
 
@@ -32,25 +32,38 @@ Key focus areas:
 - WordPress
 - WooCommerce
 - Blocksy Theme
-- FluentSMTP (email system)
-- Stripe (payments)
+- FluentSMTP (Email system)
+- Stripe (Payments)
+
+---
+
+## 🎯 What I Optimized
+
+This project focuses heavily on **conversion psychology**, not just design:
+
+- Product hierarchy (best sellers first)
+- Scarcity triggers (“Only X left”)
+- Social proof (“X sold”)
+- Clean UI for decision making
+- Reduced friction checkout
 
 ---
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+_(Add screenshots here)_
 
 ---
 
 ## ⚙️ Custom Work
 
 - CSS fixes for UI consistency
-- Automated Trustpilot review integration
-- Product card optimization for conversions
+- Product card optimization
+- Trustpilot automated review system (BCC logic)
+- Email system setup using SMTP
 
 ---
 
-## 🚀 Live Site
+## 🚀 Key Learning
 
-https://honeycomb3d.store
+Built a full e-commerce system from scratch and optimized it for real-world usage including payments, email handling, and customer trust systems.
